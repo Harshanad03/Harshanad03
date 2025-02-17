@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshanad03" alt="harshanad03" /></a> </p>
 
-- 🔭 I’m currently working on **Nediveli technologies**
 
 - 🌱 I’m currently learning **Flutter, Figma, Web development**
 
